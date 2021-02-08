@@ -1,0 +1,12 @@
+---
+title: Testing
+author: Jonathan
+date: '2019-12-16'
+slug: testing
+categories: []
+tags: []
+---
+```{r}
+DT::datatable(mtcars)
+```
+
