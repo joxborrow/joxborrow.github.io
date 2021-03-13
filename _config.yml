@@ -12,7 +12,7 @@ email: joxborrow@gmail.com
 website: joxborrow.github.io 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: facespics
