@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jonathan Oxborrow
-title: Senior Analytics Team Lead
+title: Analytics, Pricing and S&OP Professional
 email: joxborrow@gmail.com
 website: joxborrow.github.io 
 
@@ -112,7 +112,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
@@ -125,7 +125,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-darkmode: true
+# darkmode: true
 
 plugins:
  - jekyll-seo-tag
