@@ -125,5 +125,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
+darkmode: true
+
 plugins:
  - jekyll-seo-tag
