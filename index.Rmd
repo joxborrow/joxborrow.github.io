@@ -1,4 +1,5 @@
 ---
+title: JTO Resume
 output:
   html_document:
     toc: true
@@ -32,6 +33,15 @@ h5 {
 #my-subtitle {
    font-size: 20px;
 }
+
+#header {
+   display: none;
+}
+```
+
+```{js Javascript}
+$("")
+
 ```
 
 # [Jonathan T. Oxborrow]{.smallcaps}
