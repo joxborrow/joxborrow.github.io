@@ -28,14 +28,18 @@ h5 {
    margin-left: auto;
    margin-right: auto;
 }
+
+#my-subtitle {
+   font-size: 20px;
+}
 ```
 
 # [Jonathan T. Oxborrow]{.smallcaps}
 
+[[Analytics, Pricing, S&OP, and Economics Professional]{.smallcaps}]{#my-subtitle}
+
 +-------------------------------------+:----------------------------------------------------------------------------------------------------------+
-| ![](assets/avatar.png){width="100"} | Analytics, Pricing, S&OP, and Economics Professional                                                      |
-|                                     |                                                                                                           |
-|                                     | ###### 209 Court Drive                                                                                    |
+| ![](assets/avatar.png){width="100"} | ###### 209 Court Drive                                                                                    |
 |                                     |                                                                                                           |
 |                                     | ###### Washington, IL 61571                                                                               |
 |                                     |                                                                                                           |
