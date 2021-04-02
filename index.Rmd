@@ -1,29 +1,56 @@
 ---
-title: "Jonathan T. Oxborrow"
-author: "Analytics, Pricing, IBP Professional"
 output:
   html_document:
     toc: true
-    toc_float: true
+    toc_float:
+      collapsed: no
     toc_depth: 5
     theme: flatly
 ---
 
+```{r setup, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css css}
+h5 {
+   font-weight: bold;
+}
+
+#social-links > table {
+   max-width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+}
+```
+
+# Jonathan T. Oxborrow
+
 <hr>
 
-## Contact Information
++-------------------------------------+:----------------------------------------------------------------------------------------------------------+
+| ![](assets/avatar.png){width="100"} | Analytics, Pricing, S&OP, and Economics Professional                                                      |
+|                                     |                                                                                                           |
+|                                     | ###### 209 Court Drive                                                                                    |
+|                                     |                                                                                                           |
+|                                     | ###### Washington, IL 61571                                                                               |
+|                                     |                                                                                                           |
+|                                     | ###### [jonathan.todd.oxborrow\@gmail.com](mailto:jonathan.todd.oxborrow@gmail.com "Email me!!!"){.email} |
++-------------------------------------+-----------------------------------------------------------------------------------------------------------+
 
-+:---------------------+---------------------------------------------------------------------------------------------------:+
-| 209 Court Drive      | [jonathan.todd.oxborrow\@gmail.com](mailto:jonathan.todd.oxborrow@gmail.com "Email me!!!"){.email} |
-|                      |                                                                                                    |
-| Washington, IL 61571 |                                                                                                    |
-|                      |                                                                                                    |
-| USA                  |                                                                                                    |
-+----------------------+----------------------------------------------------------------------------------------------------+
+<hr>
 
-## Experience
+::: {#social-links}
+|                                                                                            |                                        |                                            |                                                              |
+|:------------------------------------------------------------------------------------------:|:--------------------------------------:|:------------------------------------------:|:------------------------------------------------------------:|
+| [![](assets/envelope.png "Email Me"){width="25"}](mailto:jonathan.todd.oxborrow@gmail.com) | ![](assets/cell-phone.png){width="25"} | ![](assets/linkedin-round.png){width="25"} | ![](assets/github-icon-logo-png-transparent.png){width="25"} |
+:::
 
-##### **Senior Analytics Team Lead - Parts Pricing**
+<hr>
+
+## [Experience]{.ul}
+
+##### Senior Analytics Team Lead
 
 obtained, lessons learned and other remarks. Can also include lists and links:
 
@@ -31,93 +58,97 @@ obtained, lessons learned and other remarks. Can also include lists and links:
 
 -   Item with [link](http://www.example.com). Links will work both in the html and pdf versions.
 
-##### **S&OP Coordinator - Analytics**
+##### S&OP Coordinator - Analytics
 
 Led data efforts for new forecasting system implementation. Prepared first centralized Energy & Transportation scoped hierarchical statistical forecast. Engineered first industry standard forecast accuracy metric for Energy & Transportation. Managed setup of Energy & Transportation S&OP analytics server.
 
-##### **Machine Demand Forecaster**
+##### Machine Demand Forecaster
 
 Prepared the Demand Forecast and Long Term Forecast for mining product. Mined Haver databases for leading indicators. Used these indicators in a machine learning model for mining industry sales. Developed Excel based forecasting tool for the division.
 
-##### **Regional Economic Analyst**
+##### Regional Economic Analyst
 
 Prepared the North America economic forecast proposal, including GDP, inflation, interest rate, construction and mining activity forecasts. Also prepared North American machine industry sales forecast. Supported the company business cycle monitoring processes.
 
-##### **Senior Economic Analyst**
+##### Senior Economic Analyst
 
 Provided economic forecast proposal for the United States and Canada. Enhanced the U.S. GDP forecast through the use of chaining to ensure hierarchical forecast consistency. Authored Canada economic summary for Board of Directors meetings.
 
-##### **Economic Analyst**
+##### Economic Analyst
 
 Maintained Latin America databases and monthly business processes. Provided translation of relevant Spanish language news material. Assisted in the preparation of written economic assumption reports for Business Plan and Long Term forecast.
 
-##### **Senior Quantitative Analyst**
+##### Senior Quantitative Analyst
 
 Responsible for the maintaining databases and monthly processes for Asia Pacific and Latin America. Assisted elsewhere as necessary.
 
-## Education
+## [Education]{.ul}
 
-##### **M.A. Economics**
+##### M.A. Economics
 
 Illinois State University (May 2005)
 
 :   Received a M.A. in Economics with a GPA of 3.41. Coursework included an above average load of econometrics, statistics, and labor economics coursework. The Master of Arts degree required demonstration of the command of a foreign language.
 
-##### **B.A. Economics**
+##### B.A. Economics
 
 Brigham Young University (December 2002)
 
 :   Received a B.A. in Economics with a GPA of 3.19. Coursework included a number courses in mathematics, computer programming, and Spanish. Bachelor of Arts required additional mathematics.
 
-## Certifications
+## [Certifications]{.ul}
 
-##### **Professional Forecaster**
+##### Professional Forecaster
 
 Institute of Business Forecasting and Planning (June 2010 - June 2014)
 
 :   Earned the designation of Certified Professional Forecaster from the Institute of Business Forecasting and Planning (IBF).
 
-##### **Economic Measurement**
+##### Economic Measurement
 
 National Association for Business Economics (October 2011)
 
 :   Earned the Certificate in Economic Measurement from the National Association for Business Economics (NABE).
 
-## Core Proficiencies & Skills
+## [Core Proficiencies & Skills]{.ul}
 
-##### **Leadership**
+##### Leadership
 
-+----------------------+-----------------------------------------------------------------------------------------+
-| Leadership Qualities | -   Communication ‐ Demonstrated strong communicator, both verbal and written.          |
-|                      | -   Ownership ‐ See things through. Takes responsibility for outcomes.                  |
-|                      | -   Integrity ‐ Honest, consistent, fair, driven by principles.                         |
-|                      | -   Teamwork ‐ Functions well as part of a team, both as lead or team member.           |
-|                      | -   Goal/Result Oriented ‐ Sets goals, prioritizes activities to achieve best outcomes. |
-|                      | -   Continuous Learner ‐ Always investigating job relevant emerging technologies.       |
-+----------------------+-----------------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------+
+| -   Communication ‐ Demonstrated strong communicator, both verbal and written.          |
+| -   Ownership ‐ See things through. Takes responsibility for outcomes.                  |
+| -   Integrity ‐ Honest, consistent, fair, driven by principles.                         |
+| -   Teamwork ‐ Functions well as part of a team, both as lead or team member.           |
+| -   Goal/Result Oriented ‐ Sets goals, prioritizes activities to achieve best outcomes. |
+| -   Continuous Learner ‐ Always investigating job relevant emerging technologies.       |
++-----------------------------------------------------------------------------------------+
 
-##### **Analytics & Productivity**
+##### Analytics & Productivity
 
-+----------------------------------+-----------------------------------------------------------------------+
-| Programming Languages & Software | -   Proficient: R, SQL, git, and MSOffice/VBA.                        |
-|                                  | -   Experienced: Tableau, SAS, STATA, EViews, C/C\#, shell scripting. |
-|                                  | -   Functional: Python, VBScript, Javascript/JQuery, docker           |
-+----------------------------------+-----------------------------------------------------------------------+
+Programming Languages & Software
 
-+------------+-----------------------------------------------------------------------------------------+
-| Statistics | -   Proficient: Time Series Modeling & Forecasting, Seasonal Adjustment, Regression/GLM |
-|            | -   Experienced: Classification, Simulation, Machine Learning, Survival Analysis        |
-|            | -   Functional: Network Analysis                                                        |
-+------------+-----------------------------------------------------------------------------------------+
++-----------------------------------------------------------------------+
+| -   Proficient: R, SQL, git, and MSOffice/VBA.                        |
+| -   Experienced: Tableau, SAS, STATA, EViews, C/C\#, shell scripting. |
+| -   Functional: Python, VBScript, Javascript/JQuery, docker           |
++-----------------------------------------------------------------------+
 
-##### **Language**
+Statistics & Analytics
+
++-----------------------------------------------------------------------------------------+
+| -   Proficient: Time Series Modeling & Forecasting, Seasonal Adjustment, Regression/GLM |
+| -   Experienced: Classification, Simulation, Machine Learning, Survival Analysis        |
+| -   Functional: Network Analysis                                                        |
++-----------------------------------------------------------------------------------------+
+
+##### Language
 
 Reads, writes, and speaks Spanish. Lived in Chile for two years from February of 1997 to February of 1999. Took Spanish coursework and proficiency exams while in college.
 
 English Native.
 
-## Projects
+## [Projects]{.ul}
 
-##### **YNABR (in development)**
+##### YNABR (in development)
 
 YNABR is an API client package for the `You Need a Budget` web application for downloading data. It is implemented in the R programming language.
