@@ -5,7 +5,7 @@ output:
     toc_float:
       collapsed: no
     toc_depth: 5
-    theme: flatly
+    theme: paper
 ---
 
 ```{r setup, echo=FALSE}
@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{css css}
+
 h5 {
    font-weight: bold;
 }
@@ -26,8 +27,6 @@ h5 {
 
 # Jonathan T. Oxborrow
 
-<hr>
-
 +-------------------------------------+:----------------------------------------------------------------------------------------------------------+
 | ![](assets/avatar.png){width="100"} | Analytics, Pricing, S&OP, and Economics Professional                                                      |
 |                                     |                                                                                                           |
@@ -38,25 +37,17 @@ h5 {
 |                                     | ###### [jonathan.todd.oxborrow\@gmail.com](mailto:jonathan.todd.oxborrow@gmail.com "Email me!!!"){.email} |
 +-------------------------------------+-----------------------------------------------------------------------------------------------------------+
 
-<hr>
-
 ::: {#social-links}
 |                                                                                            |                                                            |                                                                                      |                                                                                             |
 |:------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
 | [![](assets/envelope.png "Email Me"){width="25"}](mailto:jonathan.todd.oxborrow@gmail.com) | [![](assets/cell-phone.png){width="25"}](tel:309-822-2113) | [![](assets/linkedin-round.png){width="25"}](https://www.linkedin.com/in/joxborrow1) | [![](assets/github-icon-logo-png-transparent.png){width="25"}](http://github.com/joxborrow) |
 :::
 
-<hr>
-
 ## [Experience]{.ul}
 
 ##### Senior Analytics Team Lead
 
-obtained, lessons learned and other remarks. Can also include lists and links:
-
--   First item
-
--   Item with [link](http://www.example.com). Links will work both in the html and pdf versions.
+Coordinates day to day Caterpillar Part Pricing Analytics activities. Supports pricing automation efforts as well as pricing studies using the R language. Provides programming support of data engineering efforts in PySpark. Coordinates parts pricing project efforts.
 
 ##### S&OP Coordinator - Analytics
 
