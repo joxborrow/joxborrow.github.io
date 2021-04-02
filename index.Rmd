@@ -41,9 +41,9 @@ h5 {
 <hr>
 
 ::: {#social-links}
-|                                                                                            |                                                            |                                                                                   |                                                                                             |
-|:------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
-| [![](assets/envelope.png "Email Me"){width="25"}](mailto:jonathan.todd.oxborrow@gmail.com) | [![](assets/cell-phone.png){width="25"}](tel:309-822-2113) | [![](assets/linkedin-round.png){width="25"}](https://www.linkedin.com/joxborrow1) | [![](assets/github-icon-logo-png-transparent.png){width="25"}](http://github.com/joxborrow) |
+|                                                                                            |                                                            |                                                                                      |                                                                                             |
+|:------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+| [![](assets/envelope.png "Email Me"){width="25"}](mailto:jonathan.todd.oxborrow@gmail.com) | [![](assets/cell-phone.png){width="25"}](tel:309-822-2113) | [![](assets/linkedin-round.png){width="25"}](https://www.linkedin.com/in/joxborrow1) | [![](assets/github-icon-logo-png-transparent.png){width="25"}](http://github.com/joxborrow) |
 :::
 
 <hr>
