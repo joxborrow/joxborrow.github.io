@@ -24,6 +24,10 @@ h5 {
    font-weight: bold;
 }
 
+h6 {
+   font-size: 15px;
+}
+
 #social-links > table {
    max-width: 50%;
    margin-left: auto;
