@@ -70,9 +70,10 @@ $("")
 
 ### Senior Analytics Team Lead
 
-Coordinates day to day Caterpillar Part Pricing Analytics activities and task management with Devops tools. Supports pricing automation efforts 
-as well as pricing studies using the R language. Provides programming support of data engineering efforts in PySpark. Experienced creating 
-analytic apps and dashboards with Alteryx and Tableau respectively. Coordinates parts pricing project efforts and supports personnel management.
+Coordinates day to day Caterpillar Part Pricing Analytics activities and task management using modernd DevoOps tools. Supports pricing automation efforts 
+as well as pricing studies using the R language. Directly responsible for pricing $75 million in annual parts sales and over 150,000 individual part numbers. Provides programming 
+support of data engineering efforts in PySpark. Experienced creating analytic apps and dashboards with Alteryx and Tableau respectively. Coordinates parts pricing project 
+efforts and supports personnel and resource management.
 
 ### S&OP Coordinator - Analytics
 
@@ -81,7 +82,7 @@ Engineered first industry standard forecast accuracy metric for Energy & Transpo
 
 ### Machine Demand Forecaster
 
-Prepared the Demand Forecast and Long Term Forecast for mining product. Mined Haver databases for leading indicators. Used these indicators 
+Prepared the Demand Forecast and Long Term Forecast for mining product. Forecasted over $3 billion in annual revenue. Mined Haver databases for leading indicators. Used these indicators 
 in a machine learning model for mining industry sales. Developed Excel based forecasting tool for the division.
 
 ### Regional Economic Analyst
@@ -170,7 +171,7 @@ Reads, writes, and speaks Spanish. Lived in Chile for two years from February of
 
 English Native.
 
-## [[Projects]{.ul}]{.smallcaps}
+## [[Projects & Activities]{.ul}]{.smallcaps}
 
 ### YNABR (in development)
 
