@@ -83,7 +83,7 @@ Engineered first industry standard forecast accuracy metric for Energy & Transpo
 ### Machine Demand Forecaster
 
 Prepared the Demand Forecast and Long Term Forecast for mining product. Forecasted over $3 billion in annual revenue. Mined Haver databases for leading indicators. Used these indicators 
-in a machine learning model for mining industry sales. Developed Excel based forecasting tool for the division.
+in a machine learning model for mining industry sales. Developed Excel based forecasting forecasting system, using VBA/C# for the division.
 
 ### Regional Economic Analyst
 
