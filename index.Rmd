@@ -52,7 +52,7 @@ $("")
 
 [[Analytics, Pricing, S&OP, and Economics Professional]{.smallcaps}]{#my-subtitle}
 
-+-------------------------------------+:----------------------------------------------------------------------------------------------------------+
++:-----------------------------------:+:----------------------------------------------------------------------------------------------------------+
 | ![](assets/avatar.png){width="100"} | ###### 209 Court Drive                                                                                    |
 |                                     |                                                                                                           |
 |                                     | ###### Washington, IL 61571                                                                               |
@@ -70,7 +70,7 @@ $("")
 
 ### Senior Analytics Team Lead
 
-Coordinates day to day Caterpillar Part Pricing Analytics activities and task management using modernd DevoOps tools. Supports pricing automation efforts as well as pricing studies using the R language. Directly responsible for pricing \$75 million in annual parts sales and over 150,000 individual part numbers. Provides programming support of data engineering efforts in PySpark. Experienced creating analytic apps and dashboards with Alteryx and Tableau respectively. Coordinates parts pricing project efforts and supports personnel and resource management.
+Coordinates day to day Caterpillar Part Pricing Analytics activities and task management using modern DevoOps tools. Supports pricing automation efforts as well as pricing studies using the R language. Directly responsible for pricing \$75 million in annual parts sales and over 150,000 individual part numbers. Provides programming support of data engineering efforts in PySpark. Experienced creating analytic apps and dashboards with Alteryx and Tableau respectively. Coordinates parts pricing project efforts and supports personnel and resource management.
 
 ### S&OP Coordinator - Analytics
 
