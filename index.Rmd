@@ -70,35 +70,27 @@ $("")
 
 ### Senior Analytics Team Lead
 
-Coordinates day to day Caterpillar Part Pricing Analytics activities and task management using modernd DevoOps tools. Supports pricing automation efforts 
-as well as pricing studies using the R language. Directly responsible for pricing $75 million in annual parts sales and over 150,000 individual part numbers. Provides programming 
-support of data engineering efforts in PySpark. Experienced creating analytic apps and dashboards with Alteryx and Tableau respectively. Coordinates parts pricing project 
-efforts and supports personnel and resource management.
+Coordinates day to day Caterpillar Part Pricing Analytics activities and task management using modernd DevoOps tools. Supports pricing automation efforts as well as pricing studies using the R language. Directly responsible for pricing \$75 million in annual parts sales and over 150,000 individual part numbers. Provides programming support of data engineering efforts in PySpark. Experienced creating analytic apps and dashboards with Alteryx and Tableau respectively. Coordinates parts pricing project efforts and supports personnel and resource management.
 
 ### S&OP Coordinator - Analytics
 
-Led data efforts for new forecasting system implementation. Prepared first centralized Energy & Transportation scoped hierarchical statistical forecast. 
-Engineered first industry standard forecast accuracy metric for Energy & Transportation. Managed setup of Energy & Transportation S&OP analytics server.
+Led data efforts for new forecasting system implementation. Prepared first centralized Energy & Transportation scoped hierarchical statistical forecast. Engineered first industry standard forecast accuracy metric for Energy & Transportation. Managed setup of Energy & Transportation S&OP analytics server.
 
 ### Machine Demand Forecaster
 
-Prepared the Demand Forecast and Long Term Forecast for mining product. Forecasted over $3 billion in annual revenue. Mined Haver databases for leading indicators. Used these indicators 
-in a machine learning model for mining industry sales. Developed Excel based forecasting tool for the division.
+Prepared the Demand Forecast and Long Term Forecast for mining product. Forecasted over \$3 billion in annual revenue. Mined Haver databases for leading indicators. Used these indicators in a machine learning model for mining industry sales. Developed Excel based forecasting tool for the division.
 
 ### Regional Economic Analyst
 
-Prepared the North America economic forecast proposal, including GDP, inflation, interest rate, construction and mining activity forecasts. 
-Also prepared North American machine industry sales forecast. Supported the company business cycle monitoring processes.
+Prepared the North America economic forecast proposal, including GDP, inflation, interest rate, construction and mining activity forecasts. Also prepared North American machine industry sales forecast. Supported the company business cycle monitoring processes.
 
 ### Senior Economic Analyst
 
-Provided economic forecast proposal for the United States and Canada. Enhanced the U.S. GDP forecast through the use of chaining to 
-ensure hierarchical forecast consistency. Authored Canada economic summary for Board of Directors meetings.
+Provided economic forecast proposal for the United States and Canada. Enhanced the U.S. GDP forecast through the use of chaining to ensure hierarchical forecast consistency. Authored Canada economic summary for Board of Directors meetings.
 
 ### Economic Analyst
 
-Maintained Latin America databases and monthly business processes. Provided translation of relevant Spanish language news material. 
-Assisted in the preparation of written economic assumption reports for Business Plan and Long Term forecast.
+Maintained Latin America databases and monthly business processes. Provided translation of relevant Spanish language news material. Assisted in the preparation of written economic assumption reports for Business Plan and Long Term forecast.
 
 ### Senior Quantitative Analyst
 
@@ -110,15 +102,13 @@ Responsible for the maintaining databases and monthly processes for Asia Pacific
 
 Illinois State University (May 2005)
 
-:   Received a M.A. in Economics with a GPA of 3.41. Coursework included an above average load of econometrics, statistics, 
-and labor economics coursework. The Master of Arts degree required demonstration of the command of a foreign language.
+:   Received a M.A. in Economics with a GPA of 3.41. Coursework included an above average load of econometrics, statistics, and labor economics coursework. The Master of Arts degree required demonstration of the command of a foreign language.
 
 ### B.A. Economics
 
 Brigham Young University (December 2002)
 
-:   Received a B.A. in Economics with a GPA of 3.19. Coursework included a number courses in mathematics, computer 
-programming, and Spanish. Bachelor of Arts required additional mathematics.
+:   Received a B.A. in Economics with a GPA of 3.19. Coursework included a number courses in mathematics, computer programming, and Spanish. Bachelor of Arts required additional mathematics.
 
 ## [[Certifications]{.ul}]{.smallcaps}
 
@@ -171,8 +161,8 @@ Reads, writes, and speaks Spanish. Lived in Chile for two years from February of
 
 English Native.
 
-## [[Projects & Activities]{.ul}]{.smallcaps}
+## [[Additional Projects & Activities]{.ul}]{.smallcaps}
 
-### YNABR (in development)
+-   [YNABR](http://joxborrow.github.io/ynabr "Visit this! It is awesome.") is an API client package for the `You Need a Budget` web application for downloading data. It is implemented in the R programming language.
 
-[YNABR](http://joxborrow.github.io/ynabr "Visit this! It is awesome.") is an API client package for the `You Need a Budget` web application for downloading data. It is implemented in the R programming language.
+-   [BYUI](http://www.byui.edu "Brigham Young University - Idaho") Online Instructor - Econ 150, Starting Fall 2021.
