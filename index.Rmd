@@ -141,11 +141,11 @@ National Association for Business Economics (October 2011)
 
 Programming Languages & Software
 
-+-----------------------------------------------------------------------+
-| -   Proficient: R, SQL, git, and MSOffice/VBA.                        |
-| -   Experienced: Tableau, SAS, STATA, EViews, C/C\#, shell scripting. |
-| -   Functional: Python/Pyspark, Javascript/JQuery, docker             |
-+-----------------------------------------------------------------------+
++---------------------------------------------------------------------------------------+
+| -   Proficient: R, SQL, git, and MSOffice/VBA.                                        |
+| -   Experienced: Tableau, Python/Pyspark, SAS, STATA, EViews, shell scripting.        |
+| -   Functional: Power Automate, Office Script, Javascript, C/C++, docker              |
++---------------------------------------------------------------------------------------+
 
 Statistics & Analytics
 
@@ -165,4 +165,4 @@ English Native.
 
 -   [YNABR](http://joxborrow.github.io/ynabr "Visit this! It is awesome.") is an API client package for the `You Need a Budget` web application for downloading data. It is implemented in the R programming language.
 
--   [BYUI](http://www.byui.edu "Brigham Young University - Idaho") Online Instructor - Econ 150, Starting Fall 2021.
+-   [BYU-Idaho](http://www.byui.edu "Brigham Young University - Idaho") Online Instructor - Econ 150: Microeconomics, Fall 2021.
