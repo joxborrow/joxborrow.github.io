@@ -142,7 +142,7 @@ National Association for Business Economics (October 2011)
 Programming Languages & Software
 
 +---------------------------------------------------------------------------------------+
-| -   Proficient: R, SQL, git, and MSOffice/VBA.                                        |
+| -   Proficient: R, RMarkdown, SQL, git, and MSOffice/VBA.                             |
 | -   Experienced: Tableau, Python/Pyspark, SAS, STATA, EViews, shell scripting.        |
 | -   Functional: Power Automate, Office Script, Javascript, C/C++, docker              |
 +---------------------------------------------------------------------------------------+
