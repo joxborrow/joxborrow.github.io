@@ -165,6 +165,6 @@ English Native.
 
 -   [YNABR](http://joxborrow.github.io/ynabr "Visit this! It is awesome.") is an API client package for the `You Need a Budget` web application for downloading data. It is implemented in the R programming language.
 
--   [XRANDRGUI](https://github.com/joxborrow/xrandrgui "Just a little bit of Python on my mind.") is an experimental GUI for the xrandr Linux commandline utility.
+-   [XRANDRGUI](https://github.com/joxborrow/xrandrgui "Just a little bit of Python on my mind.") is an experimental GUI for the xrandr Linux commandline utility, implemented in Python.
 
 -   [BYU-Idaho](http://www.byui.edu "Brigham Young University - Idaho") Online Instructor - Econ 150: Microeconomics, Fall 2021.
