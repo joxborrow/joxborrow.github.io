@@ -1,11 +1,11 @@
 ---
 title: JTO Resume
-output:
-  html_document:
+format:
+  html:
     toc: true
-    toc_float:
-      collapsed: no
-    toc_depth: 5
+    toc-depth: 3
+    toc-title: "Navigation"
+    toc-location: left
     theme: paper
 ---
 
