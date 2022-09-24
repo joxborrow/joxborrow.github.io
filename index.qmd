@@ -6,7 +6,7 @@ format:
     toc-depth: 3
     toc-title: "Navigation"
     toc-location: left
-    theme: paper
+    theme: slate
 ---
 
 ```{r setup, echo=FALSE}
@@ -166,8 +166,11 @@ English Native.
 
 ## [[Additional Projects & Activities]{.ul}]{.smallcaps}
 
--   [YNABR](http://joxborrow.github.io/ynabr "Visit this! It is awesome.") is an API client package for the `You Need a Budget` web application for downloading data. It is implemented in the R programming language.
+### [YNABR](http://joxborrow.github.io/ynabr "Visit this! It is awesome.") 
+This github project is an API client package for the `You Need a Budget` web application for downloading data. It is implemented in the R programming language.
 
--   [XRANDRGUI](https://github.com/joxborrow/xrandrgui "Just a little bit of Python on my mind.") is an experimental GUI for the xrandr Linux commandline utility, implemented in Python.
+### [XRANDRGUI](https://github.com/joxborrow/xrandrgui "Just a little bit of Python on my mind.") 
+This github project is an experimental GUI for the xrandr Linux commandline utility, implemented in Python.
 
--   [BYU-Idaho](http://www.byui.edu "Brigham Young University - Idaho") Online Instructor - Econ 150: Microeconomics, Fall 2021.
+### [BYU-Idaho](http://www.byui.edu "Brigham Young University - Idaho") 
+Online Instructor - Econ 150: Microeconomics, Fall 2021.
