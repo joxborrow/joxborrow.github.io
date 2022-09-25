@@ -1,11 +1,13 @@
 ---
-title: JTO Resume
+title: Jonathan T. Oxborrow
+subtitle: Analytics, Pricing, S&OP, and Economics Professional
 format:
   html:
     toc: true
     toc-depth: 3
     toc-title: "Navigation"
     toc-location: left
+    title-block-banner: true
     theme: solar
 ---
 
@@ -14,6 +16,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{css css}
+
+h1.title {
+   font-variant: small-caps;
+}
+
+p.subtitle.lead {
+   font-variant: small-caps;
+}
 
 h3 {
    font-size: 16px;
@@ -48,9 +58,6 @@ $("")
 
 ```
 
-# [Jonathan T. Oxborrow]{.smallcaps}
-
-[[Analytics, Pricing, S&OP, and Economics Professional]{.smallcaps}]{#my-subtitle}
 
 +:-----------------------------------:+:----------------------------------------------------------------------------------------------------------+
 | ![](assets/avatar.png){width="100"} | ###### 209 Court Drive                                                                                    |
@@ -173,4 +180,4 @@ This github project is an API client package for the `You Need a Budget` web app
 This github project is an experimental GUI for the xrandr Linux commandline utility, implemented in Python.
 
 ### [BYU-Idaho](http://www.byui.edu "Brigham Young University - Idaho") 
-Online Instructor - Econ 150: Microeconomics, Fall 2021.
+Online Instructor - Econ 150: Microeconomics, Fall 2021 - present.
