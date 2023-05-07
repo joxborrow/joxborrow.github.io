@@ -58,7 +58,6 @@ $("")
 
 ```
 
-
 +:-----------------------------------:+:----------------------------------------------------------------------------------------------------------+
 | ![](assets/avatar.png){width="100"} | ###### 209 Court Drive                                                                                    |
 |                                     |                                                                                                           |
@@ -68,15 +67,18 @@ $("")
 +-------------------------------------+-----------------------------------------------------------------------------------------------------------+
 
 ::: {#social-links}
-|                                                                                                           |                                                                                                                    |                                                                                                                 |                                                                                                                                              |
-|:---------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
++:---------------------------------------------------------------------------------------------------------:+:------------------------------------------------------------------------------------------------------------------:+:---------------------------------------------------------------------------------------------------------------:+:--------------------------------------------------------------------------------------------------------------------------------------------:+
 | [![](assets/envelope.png "Email Me. I love email!"){width="25"}](mailto:jonathan.todd.oxborrow@gmail.com) | [![](assets/cell-phone.png "Give me a call. If I don't answer leave me a message."){width="25"}](tel:309-822-2113) | [![](assets/linkedin-round.png "See my LinkedIn profile."){width="25"}](https://www.linkedin.com/in/joxborrow1) | [![](assets/github-icon-logo-png-transparent.png "Check out the projects I have been working on!"){width="25"}](http://github.com/joxborrow) |
++-----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-## [[Experience]{.ul}]{.smallcaps}
+## [[Experience]{.underline}]{.smallcaps}
 
 ### Analytics Manager - Parts Pricing
-Manages a team of Data Engineers and Data Scientists supporting pricing strategy and implementation for XXX million dollars of annual revenue.
+
+Manages a team of four Data Engineers and four Data Scientists providing analytics and system support for the Global Aftermarket Parts Pricing and Sales Variance Division. Responsible for managing analytics efforts for aftermarket pricing efforts for XXX million dollars of annual revenue. Fulfills the role of Data Steward for aftermarket parts pricing data. Fulfills the role of IT owner for key pricing systems including AWS, Snowflake, and new parts pricing system. Responsible supporting corporate data governance and security efforts. Provides thought leadership for
+
+Primary responsibilities include automation and modernization of pricing and sales variance processes, planning and directing analytics projects, and recruiting and developing data science talent. Also, supporting and leading key multi-year data efforts in the implementation of the a new multi-million dollar pricing system.
 
 ### Senior Analytics Team Lead
 
@@ -106,7 +108,7 @@ Maintained Latin America databases and monthly business processes. Provided tran
 
 Responsible for the maintaining databases and monthly processes for Asia Pacific and Latin America. Assisted elsewhere as necessary.
 
-## [[Education]{.ul}]{.smallcaps}
+## [[Education]{.underline}]{.smallcaps}
 
 ### M.A. Economics
 
@@ -120,7 +122,7 @@ Brigham Young University (December 2002)
 
 :   Received a B.A. in Economics with a GPA of 3.19. Coursework included a number courses in mathematics, computer programming, and Spanish. Bachelor of Arts required additional mathematics.
 
-## [[Certifications]{.ul}]{.smallcaps}
+## [[Certifications]{.underline}]{.smallcaps}
 
 ### Professional Forecaster
 
@@ -134,7 +136,7 @@ National Association for Business Economics (October 2011)
 
 :   Earned the Certificate in Economic Measurement from the National Association for Business Economics (NABE).
 
-## [[Core Proficiencies & Skills]{.ul}]{.smallcaps}
+## [[Core Proficiencies & Skills]{.underline}]{.smallcaps}
 
 ### Leadership
 
@@ -151,11 +153,11 @@ National Association for Business Economics (October 2011)
 
 Programming Languages & Software
 
-+---------------------------------------------------------------------------------------+
-| -   Proficient: R, RMarkdown, SQL, git, and MSOffice/VBA.                             |
-| -   Experienced: Tableau, Python/Pyspark, SAS, STATA, EViews, shell scripting.        |
-| -   Functional: Power Automate, Office Script, Javascript, C/C++, docker              |
-+---------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------+
+| -   Proficient: R, RMarkdown, SQL, git, and MSOffice/VBA.                      |
+| -   Experienced: Tableau, Python/Pyspark, SAS, STATA, EViews, shell scripting. |
+| -   Functional: Power Automate, Office Script, Javascript, C/C++, docker       |
++--------------------------------------------------------------------------------+
 
 Statistics & Analytics
 
@@ -171,13 +173,16 @@ Reads, writes, and speaks Spanish. Lived in Chile for two years from February of
 
 English Native.
 
-## [[Additional Projects & Activities]{.ul}]{.smallcaps}
+## [[Additional Projects & Activities]{.underline}]{.smallcaps}
 
-### [YNABR](http://joxborrow.github.io/ynabr "Visit this! It is awesome.") 
+### [YNABR](http://joxborrow.github.io/ynabr "Visit this! It is awesome.")
+
 This github project is an API client package for the `You Need a Budget` web application for downloading data. It is implemented in the R programming language.
 
-### [XRANDRGUI](https://github.com/joxborrow/xrandrgui "Just a little bit of Python on my mind.") 
+### [XRANDRGUI](https://github.com/joxborrow/xrandrgui "Just a little bit of Python on my mind.")
+
 This github project is an experimental GUI for the xrandr Linux commandline utility, implemented in Python.
 
-### [BYU-Idaho](http://www.byui.edu "Brigham Young University - Idaho") 
+### [BYU-Idaho](http://www.byui.edu "Brigham Young University - Idaho")
+
 Online Instructor - Econ 150: Microeconomics, Fall 2021 - present.
