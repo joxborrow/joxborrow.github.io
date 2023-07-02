@@ -9,7 +9,6 @@
   numbers=noendperiod]{scrartcl}
 
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
@@ -19,6 +18,10 @@
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -37,7 +40,12 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\usepackage[normalem]{ulem}
+\ifLuaTeX
+  \usepackage{luacolor}
+  \usepackage[soul]{lua-ul}
+\else
+  \usepackage{soul}
+\fi
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 % Make \paragraph and \subparagraph free-standing
@@ -121,10 +129,12 @@
 \@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
 \makeatother
 \makeatletter
-\@ifpackageloaded{tcolorbox}{}{\usepackage[many]{tcolorbox}}
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
 \makeatother
 \makeatletter
 \@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
 \makeatother
 \makeatletter
 \makeatother
@@ -156,13 +166,15 @@
 
 \begin{document}
 \maketitle
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, frame hidden, enhanced, interior hidden, borderline west={3pt}{0pt}{shadecolor}, breakable, sharp corners]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[breakable, boxrule=0pt, borderline west={3pt}{0pt}{shadecolor}, interior hidden, frame hidden, sharp corners, enhanced]}{\end{tcolorbox}}\fi
 
 \begin{longtable}[]{@{}
   >{\centering\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2603}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7397}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \includegraphics[width=1.04167in,height=\textheight]{assets/avatar.png}
 & \begin{minipage}[t]{\linewidth}\raggedright
 209 Court Drive
@@ -171,7 +183,6 @@ Washington, IL 61571
 
 \href{mailto:jonathan.todd.oxborrow@gmail.com}{\nolinkurl{jonathan.todd.oxborrow@gmail.com}}
 \end{minipage} \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{social-links}{}
@@ -180,8 +191,10 @@ Washington, IL 61571
   >{\centering\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2417}}
   >{\centering\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2355}}
   >{\centering\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2955}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \href{mailto:jonathan.todd.oxborrow@gmail.com}{\includegraphics[width=0.26042in,height=\textheight]{assets/envelope.png}}
 &
 \href{tel:309-822-2113}{\includegraphics[width=0.26042in,height=\textheight]{assets/cell-phone.png}}
@@ -189,25 +202,22 @@ Washington, IL 61571
 \href{https://www.linkedin.com/in/joxborrow1}{\includegraphics[width=0.26042in,height=\textheight]{assets/linkedin-round.png}}
 &
 \href{http://github.com/joxborrow}{\includegraphics[width=0.26042in,height=\textheight]{assets/github-icon-logo-png-transparent.png}} \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{experience}{%
-\subsection{\texorpdfstring{\textsc{\uline{Experience}}}{Experience}}\label{experience}}
+\subsection{\texorpdfstring{\textsc{\ul{Experience}}}{Experience}}\label{experience}}
 
 \hypertarget{analytics-manager---parts-pricing}{%
 \subsubsection{Analytics Manager - Parts
 Pricing}\label{analytics-manager---parts-pricing}}
 
-Manages a team of four Data Engineers and four Data Scientists providing
+Manages a team of four Data Engineers and five Data Scientists providing
 analytics and system support for the Global Aftermarket Parts Pricing
-and Sales Variance Division. Responsible for managing analytics efforts
-for aftermarket pricing efforts for XXX million dollars of annual
-revenue. Fulfills the role of Data Steward for aftermarket parts pricing
-data. Fulfills the role of IT owner for key pricing systems including
-AWS, Snowflake, and new parts pricing system. Responsible supporting
-corporate data governance and security efforts. Provides thought
-leadership for
+and Sales Variance Division. Fulfills the role of Data Steward for
+aftermarket parts pricing data. Fulfills the role of IT owner for key
+pricing systems including AWS, Snowflake, and new parts pricing system.
+Responsible supporting corporate data governance and security efforts.
+Provides thought leadership in analytics and systems.
 
 Primary responsibilities include automation and modernization of pricing
 and sales variance processes, planning and directing analytics projects,
@@ -281,7 +291,7 @@ Responsible for the maintaining databases and monthly processes for Asia
 Pacific and Latin America. Assisted elsewhere as necessary.
 
 \hypertarget{education}{%
-\subsection{\texorpdfstring{\textsc{\uline{Education}}}{Education}}\label{education}}
+\subsection{\texorpdfstring{\textsc{\ul{Education}}}{Education}}\label{education}}
 
 \hypertarget{m.a.-economics}{%
 \subsubsection{M.A.~Economics}\label{m.a.-economics}}
@@ -305,7 +315,7 @@ Bachelor of Arts required additional mathematics.
 \end{description}
 
 \hypertarget{certifications}{%
-\subsection{\texorpdfstring{\textsc{\uline{Certifications}}}{Certifications}}\label{certifications}}
+\subsection{\texorpdfstring{\textsc{\ul{Certifications}}}{Certifications}}\label{certifications}}
 
 \hypertarget{professional-forecaster}{%
 \subsubsection{Professional Forecaster}\label{professional-forecaster}}
@@ -327,7 +337,7 @@ Association for Business Economics (NABE).
 \end{description}
 
 \hypertarget{core-proficiencies-skills}{%
-\subsection{\texorpdfstring{\textsc{\uline{Core Proficiencies \&
+\subsection{\texorpdfstring{\textsc{\ul{Core Proficiencies \&
 Skills}}}{Core Proficiencies \& Skills}}\label{core-proficiencies-skills}}
 
 \hypertarget{leadership}{%
@@ -335,8 +345,10 @@ Skills}}}{Core Proficiencies \& Skills}}\label{core-proficiencies-skills}}
 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0112}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
@@ -358,7 +370,6 @@ Skills}}}{Core Proficiencies \& Skills}}\label{core-proficiencies-skills}}
   technologies.
 \end{itemize}
 \end{minipage} \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{analytics-productivity}{%
@@ -368,8 +379,10 @@ Programming Languages \& Software
 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0125}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
@@ -382,15 +395,16 @@ Programming Languages \& Software
   Functional: Power Automate, Office Script, Javascript, C/C++, docker
 \end{itemize}
 \end{minipage} \\
-\bottomrule()
 \end{longtable}
 
 Statistics \& Analytics
 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0112}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
@@ -404,7 +418,6 @@ Statistics \& Analytics
   Functional: Network Analysis
 \end{itemize}
 \end{minipage} \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{language}{%
@@ -417,7 +430,7 @@ proficiency exams while in college.
 English Native.
 
 \hypertarget{additional-projects-activities}{%
-\subsection{\texorpdfstring{\textsc{\uline{Additional Projects \&
+\subsection{\texorpdfstring{\textsc{\ul{Additional Projects \&
 Activities}}}{Additional Projects \& Activities}}\label{additional-projects-activities}}
 
 \hypertarget{ynabr}{%
