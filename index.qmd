@@ -1,6 +1,6 @@
 ---
 title: Jonathan T. Oxborrow
-subtitle: Analytics, Pricing, S&OP, and Economics Professional
+subtitle: Analytics, Pricing, S&OP/IBP, and Forecasting Professional
 format:
   html:
     toc: true
