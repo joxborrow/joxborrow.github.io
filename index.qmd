@@ -72,7 +72,7 @@ $("")
 +-----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-## [[Experience]{.underline}]{.smallcaps}
+## [Experience]{.underline .smallcaps}
 
 ### Analytics Manager - Parts Pricing
 
@@ -84,13 +84,51 @@ Primary responsibilities include automation and modernization of pricing and sal
 
 Coordinates day to day Caterpillar Part Pricing Analytics activities and task management using modern DevoOps tools. Supports pricing automation efforts as well as pricing studies using the R language. Directly responsible for pricing \$75 million in annual parts sales and over 150,000 individual part numbers. Provides programming support of data engineering efforts in PySpark. Experienced creating analytic apps and dashboards with Alteryx and Tableau respectively. Coordinates parts pricing project efforts and supports personnel and resource management.
 
+:::{.callout-note title="Key Results:"}
+
+- Co-authored Global Parts Pricing Analytics Team Reorganization.
+- Designing Parts Pricing Analytics Pricing Automation Evolution Roadmap.
+- Provides team leadership in Advanced Analytics and Data Engineering.
+- Interim data steward delegate and technical leader in AWS, Snowflake, R, Python, Alteryx and PowerBI.
+- Leads automation and reproducible reporting efforts (i.e. AMC, TAP Insights Reporting, and more).
+
+:::
+
+---
+
 ### S&OP Coordinator - Analytics
 
 Led data efforts for new forecasting system implementation. Prepared first centralized Energy & Transportation scoped hierarchical statistical forecast. Engineered first industry standard forecast accuracy metric for Energy & Transportation. Managed setup of Energy & Transportation S&OP analytics server.
 
+:::{.callout-note title="Key Results:"}
+
+- Led data implementation for cloud based forecasting system with external vendor.
+- Implemented analytics server for increased automation and analytics.
+- Championed data governance and validation processes for forecasting system and reports.
+- Built consensus across industry groups for key analytics initiatives.
+- Prepared centralized E&T scoped statistical forecast, driving demand forecast accuracy.
+- Developed and coached S&OP Analytics Team.
+
+:::
+
+---
+
 ### Machine Demand Forecaster
 
 Prepared the Demand Forecast and Long Term Forecast for mining product. Forecasted over \$3 billion in annual revenue. Mined Haver databases for leading indicators. Used these indicators in a machine learning model for mining industry sales. Developed Excel based forecasting tool for the division.
+
+:::{.callout-note title="Key Results:"}
+
+- Developed monthly demand forecast and annual Long Term Forecast for L&H product.
+- Managed key forecast stakeholders, with competing objectives, to generate forecast consensus.
+- Prepared forecast analysis for upper management in Executive S&OP meetings.
+- Presented monthly to product managers on forecast changes and performance.
+- Mined economic databases for leading indicators for machine learning models.
+- Developed Excel/VBA based forecasting system for use across the division.
+
+:::
+
+---
 
 ### Regional Economic Analyst
 
@@ -100,6 +138,20 @@ Prepared the North America economic forecast proposal, including GDP, inflation,
 
 Provided economic forecast proposal for the United States and Canada. Enhanced the U.S. GDP forecast through the use of chaining to ensure hierarchical forecast consistency. Authored Canada economic summary for Board of Directors meetings.
 
+:::{.callout-note title="Key Results:"}
+
+- Prepared North American economic forecast (GDP, CPI, PPI, interest rates, IP forecasts).
+- Enhanced the U.S. GDP forecast using chaining to ensure hierarchical forecast consistency.
+- Prepared North American machine industry sales forecast.
+- Authored Canada economic summary for Caterpillar Board of Directors meetings.
+- Managed and communicated North America PINS/market share assumptions to the organization.
+- Prepared worldwide long term exchange rate forecasts.
+- Supported business cycle monitoring processes and various enterprise initiatives.
+
+:::
+
+---
+
 ### Economic Analyst
 
 Maintained Latin America databases and monthly business processes. Provided translation of relevant Spanish language news material. Assisted in the preparation of written economic assumption reports for Business Plan and Long Term forecast.
@@ -108,7 +160,16 @@ Maintained Latin America databases and monthly business processes. Provided tran
 
 Responsible for the maintaining databases and monthly processes for Asia Pacific and Latin America. Assisted elsewhere as necessary.
 
-## [[Education]{.underline}]{.smallcaps}
+:::{.callout-note title="Key Results:"}
+
+- Maintained and monthly processes for Asia Pacific and Latin America.
+- Translated relevant Spanish language economic articles.
+- Assisted preparing models and reports for Business Plan and Long Term forecast.
+- Assisted in on-boarding new analysts and interns.
+
+:::
+
+## [Education]{.underline .smallcaps}
 
 ### M.A. Economics
 
@@ -122,7 +183,7 @@ Brigham Young University (December 2002)
 
 :   Received a B.A. in Economics with a GPA of 3.19. Coursework included a number courses in mathematics, computer programming, and Spanish. Bachelor of Arts required additional mathematics.
 
-## [[Certifications]{.underline}]{.smallcaps}
+## [Certifications]{.underline .smallcaps}
 
 ### Amazon Cloud Certifications
 
@@ -133,6 +194,12 @@ Brigham Young University (December 2002)
 +----------------------------------------------------------+----------------------------------+
 
 : {tbl-colwidths="\[15,60\]"}
+
+### Data Strategy
+
+University of California, Berkeley (exp. April 2024)
+
+:   Earned a certification in Data Strategy from the Haas School of Business, UC Berkeley
 
 ### Professional Forecaster
 
