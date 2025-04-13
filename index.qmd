@@ -178,9 +178,9 @@ Brigham Young University (December 2002)
 ### Machine Learning & Artificial Intelligence
 
 +-------------------------------------------------+------------------------------------------+
-| ![](assets/ml_ai_certification.png){width="95"} | Data Strategy Certification, UC Berkeley |
+| ![](assets/ml_ai_certification.png){width="95"} | ML and AI Certification, UC Berkeley
 |                                                 |                                          |
-|                                                 | Date Earned: 2024-04                     |
+|                                                 | Date Earned: 2025-03                     |
 +-------------------------------------------------+------------------------------------------+
 
 : {tbl-colwidths="\[15,60\]"}
